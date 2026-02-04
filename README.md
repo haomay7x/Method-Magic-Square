@@ -15,7 +15,7 @@ $$M=n(n^{2}+1)/2$$
 ## 🛠 Установка и запуск ##
 1. Склонируйте репозиторий или скачайте файл скрипта.
 ```bash
-git clone https://github.com/haomay7x/magic-square-cipher.git
+git clone https://github.com/haomay7x/Method-Magic-Square.git
 cd app
 ```
 2. Убедитесь, что у вас установлен Python 3.
